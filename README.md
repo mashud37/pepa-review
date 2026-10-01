@@ -1,3 +1,5 @@
+Archived version. Development continues at [mashud37/pepa-workers/](https://github.com/mashud37/pepa-workers).
+
 # pepa-review
 
 pepa-review exists because a folder of `pepa-sum` briefs, one `sum_`/`para_`/`quote_` triple per
